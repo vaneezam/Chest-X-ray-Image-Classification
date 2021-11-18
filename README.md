@@ -16,6 +16,6 @@ The code Implements 2 CNN architectures for classifying Chest X-ray Images into 
 2. a Custom designed model (5 layers) </br>
 The models are compared in terms of Accuracy and Training Time. </br>
 The code further includes:</br>
-## Grad CAM</br>
-## Transfer Learning</br>
-## Data Augmentation</br>
+###### Grad CAM</br>
+###### Transfer Learning</br>
+###### Data Augmentation</br>
